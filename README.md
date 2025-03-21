@@ -1,3 +1,4 @@
+```mermaid
 graph TD;
   Z[Nhà hàng đăng bài về đồ ăn] --> A[Khách hàng đặt hàng];
   A -->|Xác nhận đơn| B[Hệ thống tiếp nhận đơn hàng];
